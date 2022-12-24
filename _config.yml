@@ -1,8 +1,11 @@
 title: Bunni Gunni
+
 description: >- 
   The Bunni Gunni website. Game updates and news.
-baseurl: / 
-url: https://nneedlemouse.github.io 
+
+baseurl: "" 
+
+url: "https://nneedlemouse.github.io"
 
 theme: minima
 plugins:
