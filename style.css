@@ -13,3 +13,8 @@ body {
 #Main-header {
 
 }
+
+#Post-section {
+  position: fixed;
+  left: 120vh;
+}
