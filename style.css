@@ -1,0 +1,15 @@
+
+
+body {
+    min-height: 100ch;;
+}
+
+#main-footer{
+    text-align: center;
+    position: sticky;
+    top: 100%;
+}
+
+#Main-header {
+
+}
