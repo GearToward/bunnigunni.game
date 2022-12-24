@@ -2,7 +2,7 @@ title: Bunni Gunni
 description: >- # this means to ignore newlines until "baseurl:"
   The Bunni Gunni website. Game updates and news.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://nneedlemouse.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nneedlemouse.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 theme: minima
 plugins:
