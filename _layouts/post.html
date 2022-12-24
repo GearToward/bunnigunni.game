@@ -1,0 +1,20 @@
+<html>
+  <header>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> {{ page.title  }}</title>
+    <link rel="stylesheet" href="{{ site.url }}/css/style.css">
+ </header>
+  <body>
+
+    {% include header.html %}
+
+    {{ content }}
+
+    <div id="main-footer">
+      {% include footer.html %}
+    </div>
+
+  </body>
+
+
+</html>
