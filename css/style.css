@@ -20,5 +20,6 @@ body {
 #Post-section {
   position: fixed;
   left: 120vh;
+  overflow: scroll-y;
 }
 
