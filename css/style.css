@@ -2,9 +2,10 @@
 
 body {
     min-height: 100vh;
-    /* background-position: 0 -120px; */
-    /* background-attachment: fixed; */
-    /* background-image: url("../images/unknown.png"); */
+    position: relative;
+    background-position: 0 -120px;
+    background-attachment: fixed;
+    background-image: url("../images/scenery.png"); */
 }
 
 #main-footer{
@@ -14,11 +15,11 @@ body {
 }
 
 #Main-header {
-
+  height: 90px;
+  background-color: #ffff00;
 }
 
 #Post-section {
-  position: fixed;
   left: 120vh;
   overflow: scroll-y;
 }
