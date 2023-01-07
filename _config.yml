@@ -5,7 +5,7 @@ description: >-
 
 baseurl: "" 
 
-url: "https://nneedlemouse.github.io"
+url: "https://bunnigunni.game"
 
 theme: minima
 plugins:
