@@ -5,7 +5,7 @@ description: >-
 
 baseurl: "" 
 
-url: "https://BunniGunni.Game"
+url: ""
 
 theme: minima
 plugins:
